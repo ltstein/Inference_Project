@@ -1,0 +1,27 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2018-02-25 23:28:42.609144",
+    "dataset_id": "20180225-230604-2d8a",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.0",
+    "framework": "caffe",
+    "id": "20180225-232842-887a",
+    "image dimensions": [
+        256,
+        256,
+        3
+    ],
+    "image resize mode": "fill",
+    "job id": "20180225-232842-887a",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "none",
+    "model file": "original.prototxt",
+    "name": "utensilClassifier-fill2",
+    "snapshot file": "snapshot_iter_3000.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "nvidia"
+}
